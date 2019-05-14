@@ -3,7 +3,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-1.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -12,7 +12,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-2.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -21,7 +21,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-3.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -30,7 +30,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-4.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -39,7 +39,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-5.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -48,7 +48,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-6.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -57,7 +57,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-7.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -66,7 +66,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-8.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -75,7 +75,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-9.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -84,7 +84,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Legorreta-0.png
+map_Kd Legorreta-1.tga
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
